@@ -28,7 +28,7 @@
 The project expects the extracted Google Speech Commands dataset inside an `archive/` directory in the repository root:
 
 ```text
-.
+Final_Project_DL
 ├── archive/                      # Extracted Google Speech Commands v2 dataset
 │   ├── yes/, no/, up/, ...       # 10 keyword folders
 │   ├── _background_noise_/       # Ambient noise files
